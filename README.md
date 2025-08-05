@@ -12,3 +12,7 @@ Justice League App is a simple fan-made web application where users can explore 
 
 The app features character bios, powers, and other fun details in a clean and modern interface.
 Built to practice full-stack development skills using modern technologies.
+
+
+## Estos cambios son Nuevos
+Comentamos lo que sea aqui
